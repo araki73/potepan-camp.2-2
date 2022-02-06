@@ -1,0 +1,58 @@
+html {
+  background-color: white;
+}
+
+#timer {
+  margin: 0 auto;
+  font-size: 40px;
+  font-weight: bold;
+  width: 100%;
+  text-align: center
+}
+
+.btn-wrapper {
+  text-align: center;
+}
+
+.btn {
+  font-size: 25px;
+  margin: 40px 10px;
+  padding: 10px;
+  border: solid 1.5px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #DDDDDD;
+  width: 150px;
+}
+
+
+
+
+
+
+
+
+/*.gray {
+  background-color: gray;
+}
+
+
+
+
+
+
+/*
+.stop-watch {}
+.number {}
+
+.clear {
+  clear: both;
+}
+
+
+*/
+
+
+
+
+
